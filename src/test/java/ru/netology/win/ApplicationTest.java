@@ -21,7 +21,7 @@ public class ApplicationTest {
 
     @BeforeAll
     static void setUpAll() {
-        WebDriverManager.chromedriver().setup();
+        WebDriverManager.chromedriver().clearDriverCache().setup();
     }
 
     @BeforeEach
