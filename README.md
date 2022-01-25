@@ -1,0 +1,1 @@
+# Домашнее задание к занятию  «2.1. Тестирование веб-интерфейсов» [![Build status](https://ci.appveyor.com/api/projects/status/amrsy1un2v2mlhy9?svg=true)](https://ci.appveyor.com/project/Maryust/aqahomework3-1)
